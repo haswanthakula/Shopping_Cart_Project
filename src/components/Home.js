@@ -63,6 +63,7 @@ const ExplanationList = styled.ol`
 `;
 
 const Home = () => {
+  console.log('Home component rendered');
   return (
     <HomeContainer>
       <HeroSection>
